@@ -72,9 +72,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'root',
-		'password' => '',
-		'database' => 'paypak',
+		'login' => 'adminyhMD8ef ', //Edited for online openshift
+		'password' => ' S34dkD5IiPtU', //Edited for online openshift
+		'database' => 'paypk', //Edited for online openshift
 		'prefix' => '',
 		'unix_socket' => '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock',
 		//'encoding' => 'utf8',
